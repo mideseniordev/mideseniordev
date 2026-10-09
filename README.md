@@ -10,7 +10,7 @@ Backend software engineer. I build APIs and services in Go, TypeScript, and Node
 
 ## Interests
 
-Machine learning, cloud, and DevOps. I care about systems that stay reliable once they leave the laptop.
+Machine learning, cloud, and DevOps. I care about systems that stay reliable.
 
 ## Stack
 
