@@ -18,4 +18,4 @@ Go · TypeScript · Node.js · Python · PostgreSQL · Docker · AWS
 
 ## Also
 
-I write, run, and swim. Outside of code I read, watch older films, and spend time on design.
+I write, run, and swim. Outside of code I read, watch older films, I play chess, and spend time on design.
